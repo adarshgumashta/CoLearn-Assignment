@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UnSplash</string>
+    <string name="search_images">Search Images</string>
+    <string name="advanced_filter">Advanced Filter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filter_menu">FILTER</string>
+    <string name="sort_by">SORT BY</string>
+    <string name="relevance">Relevance</string>
+    <string name="newest">Newest</string>
+    <string name="color">Color</string>
+    <string name="any_color">Any Color</string>
+    <string name="black_white">Black And White</string>
+    <string name="orientation">Orientation</string>
+    <string name="any_orientation">Any</string>
+    <string name="orientation_portrait">Portrait</string>
+    <string name="orientation_landscape">Landscape</string>
+    <string name="orientation_square">Square</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="tones">Tones</string>
+    <string name="search_empty_term">Please enter search term</string>
+    <string name="no_results_to_show">No results to show</string>
+    <string name="please_check_spelling_or_try_different_keywords">Please Check spelling or try different keywords</string>
+</resources>
